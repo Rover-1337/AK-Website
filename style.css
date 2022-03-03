@@ -51,9 +51,9 @@ body {
 }
 
 .oplossing p {
-  margin-left: 42.5%;
+  margin-left: 39.5%;
   margin-top: 1%;
-  max-width: 15%;
+  max-width: 20%;
   position: absolute;
 }
 
@@ -80,6 +80,16 @@ body {
 
 .foto1 img:hover{
   box-shadow: 5px 5px gray;
+}
+
+.video {
+  margin-top: 7.5%;
+  margin-left: .5%;
+  width: 25%;
+}
+
+.download {
+  text-align: center;
 }
 
 #credits {
